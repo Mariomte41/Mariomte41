@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Data visualization and using machine learning processes
 - to automate data analysis using python
 - 💞️ I’m looking to collaborate on a
-- 📫 How to reach me: My number is 8124149803 and my [Indeed profile](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-notifcenter)  
+- 📫 How to reach me: My number is 8124149803 and this is my [Indeed profile](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-notifcenter)  
 
 
 <!---
